@@ -6,7 +6,7 @@
 ## Aim
 
 To measure the isolation between the E and H arms of a magic tee and study the characteristics of the magic tee.
-
+  
 ## Apparatus Used
 
 Klystron power supply, klystron mount, isolator, attenuator, frequency meter, VSWR meter, magic tee and matched terminations.
@@ -66,8 +66,9 @@ A magic tee is normally characterised by two quantities:
 3. Measure the values from the VSWR meter for E-Arm and H-Arm as input port.
 
 ## Observation (Measurement of isolation between E and H arms)
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 51 AM" src="https://github.com/user-attachments/assets/8802d580-0a5e-44ed-b99d-ce9b2950f4b7" />
 
-*(Include your own table relevant to the experiment.)*
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 52 AM (2)" src="https://github.com/user-attachments/assets/d362406c-c950-451b-837a-34181f7b01f7" />
 
 ## Precautions
 
@@ -76,5 +77,4 @@ A magic tee is normally characterised by two quantities:
 * Take the observations carefully.
 
 ## Conclusion
-
-*(Write your own.)*
+The scattering parameters and power division properties of the Magic (Hybrid) Tee were successfully measured.
